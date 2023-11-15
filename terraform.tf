@@ -1,7 +1,8 @@
 terraform {
 
+/*
   cloud {
-    organization = "organization-name"
+    organization = "rafalkkk-training"
 
     workspaces {
       name = "learn-terraform-cloud"
@@ -14,6 +15,7 @@ terraform {
       version = "~> 3.28.0"
     }
   }
+*/
 
   required_version = ">= 0.14.0"
 }
